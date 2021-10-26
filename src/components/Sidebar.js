@@ -46,6 +46,7 @@ const Sidebar = () => {
         <div className="sidebar_item sidebar__hackerrank py-3">
           <a href="https://www.hackerrank.com/manish_adtani19">
             <img
+              alt=""
               src="https://img.icons8.com/windows/32/000000/hackerrank.png"
               className="sidebar__icon mr-3"
             />
